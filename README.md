@@ -1,5 +1,4 @@
 # ♻️ Atık Avcısı v1.0
-
 **Yapay Zeka Destekli Çevre Bilinci ve Atık Yönetimi Oyunlaştırma Yazılımı**
 
 Atık Avcısı, çevre kirliliğiyle mücadeleyi dijital bir avcılık ve ödül mekanizmasına dönüştüren yenilikçi bir mobil platformdur. Bu proje, geri dönüşümü sıkıcı bir zorunluluk olmaktan çıkarıp, ölçülebilir ve ödüllendirilebilir bir alışkanlık haline getirmeyi hedeflemektedir.
